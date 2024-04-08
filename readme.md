@@ -37,12 +37,3 @@ This is the **classic** output of musicard.
 
 
 
-# Originial Source
-
-```
-https://github.com/a3pire
-```
-# Projects
-|  Sr.  |            Name            |  Platform  |
-|:-----:|:--------------------------:|:----------:|
-| **1** | [Miko Radio](https://discord.com/oauth2/authorize?response_type=code&client_id=1176036435523022969&scope=guilds.join%20bot%20applications.commands&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FYZR9YF96Fs) | discord.js |
